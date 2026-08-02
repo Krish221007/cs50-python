@@ -1,10 +1,19 @@
 # Week 0
 
 ## Topics Covered
-- Functions
+
+- Printing output
+- User input
 - Variables
-- Input and Output
 - Strings
+- String methods (`strip()`, `title()`, `split()`)
+- f-strings
+
+## Files
+
+- hello.py
+- hello2.py
 
 ## Notes
+
 Lecture examples and practice from CS50P Week 0.
