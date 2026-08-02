@@ -5,7 +5,7 @@ This repository contains my lecture examples, notes, and practice while taking H
 ## Course Progress
 
 - [x] Week 0
-- [x] Week 1
+- [ ] Week 1
 - [ ] Week 2
 - [ ] Week 3
 - [ ] Week 4
